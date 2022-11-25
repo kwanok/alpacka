@@ -1,4 +1,4 @@
-package heap
+package heapacka
 
 import (
 	"github.com/stretchr/testify/suite"
